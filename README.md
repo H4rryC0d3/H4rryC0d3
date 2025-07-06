@@ -9,7 +9,7 @@
 - 💻 Full Stack Developer | MERN & Python Enthusiast  
 - 🎯 Building responsive UIs, clean backend APIs & animated frontends
 - 🤝 I’m looking to collaborate on innovative web applications and open-source projects.
-- 🌐 Portfolio: [harshpadiyar.vercel.app](https://harshpadiyar.vercel.app)  
+- 🌐 Portfolio: [harshpadiyar.vercel.app](https://hpadiyar.vercel.app)  
 - 📍 Currently in 🏙️ Hyderabad, India  
 
 
