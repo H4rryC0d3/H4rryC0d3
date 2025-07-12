@@ -3,15 +3,14 @@
 <table>
   <tr>
     <td width="75%">
-
-<h2>🚀 About Me</h2>
+      <h2>🚀 About Me</h2>
 
 - 💻 Full Stack Developer | MERN & Python Enthusiast  
-- 🎯 Building responsive UIs, clean backend APIs & animated frontends
-- 🤝 I’m looking to collaborate on innovative web applications and open-source projects.
+- 🎯 Building responsive UIs, clean backend APIs & animated frontends  
+- 🤝 I’m looking to collaborate on innovative web applications and open-source projects  
 - 🌐 Portfolio: [harshpadiyar.vercel.app](https://hpadiyar.vercel.app)  
-- 📍 Currently in 🏙️ Hyderabad, India  
-
+- 📍 Based in 🏙️ Hyderabad, India  
+- 🌱 Currently learning: TypeScript, GraphQL & AWS  
 
 </td>
 <td align="right">
@@ -20,6 +19,7 @@
   </tr>
 </table>
 
+---
 
 ## 🔗 Connect with Me
 
@@ -27,9 +27,6 @@
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshpadiyar10588@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/HarshPadiyar4?t=CdRNLUo2GFumrB2uUmIFAw&s=09)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_padiyar28)
-
----
-
 
 ---
 
@@ -58,11 +55,32 @@
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4rryC0d3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4rryC0d3&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H4rryC0d3&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rryC0d3&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
 
 ---
 
+## 🐍 GitHub Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake.svg)
 
-⭐️ *"Stay hungry, stay foolish." – Steve Jobs*
+---
+
+## ✨ Fun Facts
+
+- 🌐 I design in Figma and build in React
+- 🎧 Music + Coding = Productivity boost
+- ✨ Favorite stack: MERN + Tailwind + Framer Motion
+- 🧩 I break things to learn better 💡
+
+---
+
+## 🌟 Quote
+
+> “Stay hungry, stay foolish.” – Steve Jobs
+
+---
+
+*Made with ❤️ by Harsh Padiyar*
