@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello World, I'm Harsh Padiyar</h1>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=H4rryC0d3" alt="Visitor Badge" />
+</p>
+
 <table>
   <tr>
     <td width="75%">
@@ -8,14 +12,14 @@
 - 💻 Full Stack Developer | MERN & Python Enthusiast  
 - 🎯 Building responsive UIs, clean backend APIs & animated frontends  
 - 🤝 I’m looking to collaborate on innovative web applications and open-source projects  
-- 🌐 Portfolio: [harshpadiyar.vercel.app](https://hpadiyar.vercel.app)  
+- 🌐 Portfolio: <a href="https://hpadiyar.vercel.app" target="_blank">harshpadiyar.vercel.app</a>  
 - 📍 Based in 🏙️ Hyderabad, India  
 - 🌱 Currently learning: TypeScript, GraphQL & AWS  
 
-</td>
-<td align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="developer animation">
-</td>
+    </td>
+    <td align="right">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="developer animation">
+    </td>
   </tr>
 </table>
 
@@ -61,21 +65,23 @@
 </p>
 
 ---
+
+## 🐍 GitHub Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 ---
 
 ## ✨ Fun Facts
 
-- 🌐 I design in Figma and build in React
-- 🎧 Music + Coding = Productivity boost
-- ✨ Favorite stack: MERN + Tailwind + Framer Motion
-- 🧩 I break things to learn better 💡
+- 🌐 I design in Figma and build in React  
+- 🎧 Music + Coding = Productivity boost  
+- ✨ Favorite stack: MERN + Tailwind + Framer Motion  
+- 🧩 I break things to learn better 💡  
 
 ---
 
