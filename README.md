@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Harsh Padiyar</h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=H4rryC0d3" alt="Visitor Badge" />
-</p>
 
 <table>
   <tr>
