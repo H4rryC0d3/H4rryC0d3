@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello World, I'm Harsh Padiyar</h1>
 
-
 <table>
   <tr>
     <td width="75%">
@@ -8,43 +7,39 @@
 
 - 💻 Full Stack Developer | MERN & Python Enthusiast  
 - 🎯 Building responsive UIs, clean backend APIs & animated frontends  
-- 🤝 I’m looking to collaborate on innovative web applications and open-source projects  
-- 🌐 Portfolio: <a href="https://hpadiyar.vercel.app" target="_blank">harshpadiyar.vercel.app</a>  
-- 📍 Based in 🏙️ Hyderabad, India  
-- 🌱 Currently learning: TypeScript, GraphQL & AWS  
+- 🤝 Open to collaborating on web apps & open-source  
+- 🌐 Portfolio: [harshpadiyar.vercel.app](https://hpadiyar.vercel.app)  
+- 📍 Currently in 🏙️ Hyderabad, India  
 
-    </td>
-    <td align="right">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="developer animation">
-    </td>
+</td>
+<td align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="developer animation">
+</td>
   </tr>
 </table>
 
 ---
 
+## ✨ Typing Animation
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Padiyar;Full+Stack+Developer;React+%7C+Node+%7C+MongoDB)](https://git.io/typing-svg)
+
+---
+
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-padiyar-b6ba46308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-padiyar-b6ba46308)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshpadiyar10588@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/HarshPadiyar4?t=CdRNLUo2GFumrB2uUmIFAw&s=09)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/HarshPadiyar4)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_padiyar28)
 
 ---
 
 ## 🧠 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-FramerMotion-000000?style=flat&logo=framer&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,bootstrap,tailwind,figma,git,github" />
+</p>
 
 ---
 
@@ -54,32 +49,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4rryC0d3&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rryC0d3&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=H4rryC0d3&theme=radical&hide_border=true" />
 </p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/H4rryC0d3/H4rryC0d3/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 ---
 
 ## ✨ Fun Facts
 
 - 🌐 I design in Figma and build in React  
-- 🎧 Music + Coding = Productivity boost  
+- 🎧 Music + Coding = 💥 Productivity  
 - ✨ Favorite stack: MERN + Tailwind + Framer Motion  
-- 🧩 I break things to learn better 💡  
+- 🧩 I break things to learn better 💡
 
 ---
 
