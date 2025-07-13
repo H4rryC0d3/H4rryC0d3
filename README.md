@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-You said:
 <h1 align="center">👋 Hello World, I'm Harsh Padiyar</h1>
 
 <table>
